@@ -1,6 +1,6 @@
 """
 Laboratorio - Manipulación de Datos usando Pandas
------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
 
 Este archivo contiene las preguntas que se van a realizar en el laboratorio.
 
